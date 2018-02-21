@@ -38,8 +38,6 @@ class Main extends PluginBase implements Listener {
 			}
 			if($sender->hasPermission("stick.cmd") || $sender->isOp()){
 				
-				if(isset($args[0])) {
-				
 					$player = $sender->getServer()->getPlayer($args[0]);
 
 									
