@@ -69,6 +69,10 @@ class Main extends PluginBase implements Listener {
 			}
 		}
 		
+		return true;
+		
+	}
+			
 	public function onInteract(PlayerInteractEvent $event) {
 		
 		$player = $event->getPlayer();
@@ -96,7 +100,6 @@ class Main extends PluginBase implements Listener {
 				
 				break;
 				
-			}
 		}
 	}
 	
