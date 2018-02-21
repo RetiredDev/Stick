@@ -1,0 +1,9 @@
+name: Voucher
+main: Voucher\Main
+version: 1.0.0
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
+author: RetiredDev
+description: Voucher
+commands:
+ voucher:
+  description: "Gives the player a voucher."
