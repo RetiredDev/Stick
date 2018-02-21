@@ -1,0 +1,36 @@
+---
+# Use effect IDs
+
+first-stick:
+- "1"
+- "2"
+- "3"
+
+second-stick:
+- "4"
+- "5"
+- "6"
+
+third-stick:
+- "7"
+- "8"
+- "9"
+
+fourth-stick:
+- "10"
+- "11"
+- "12"
+
+fifth-stick:
+- "13"
+- "14"
+- "15"
+
+# Minimum time of the effect
+
+effect-min: 64
+
+# Maximum time of the effect
+
+effect-max: 64
+...
