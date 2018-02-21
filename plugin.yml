@@ -1,9 +1,9 @@
-name: Voucher
-main: Voucher\Main
+name: MightyStick
+main: MightyStick\Main
 version: 1.0.0
-api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
+api: [3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11]
 author: RetiredDev
-description: Voucher
+description: MightyStick
 commands:
- voucher:
-  description: "Gives the player a voucher."
+ mightystick:
+  description: "Gives a stick"
